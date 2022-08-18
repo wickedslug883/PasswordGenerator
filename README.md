@@ -1,0 +1,2 @@
+# PasswordGenerator
+ JAVASCRIPT PRACTICE
